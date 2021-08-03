@@ -166,7 +166,19 @@
         <trackTrending>false</trackTrending>
         <type>Lookup</type>
     </fields>
+<<<<<<< HEAD
   
+=======
+    <fields>
+        <fullName>Correo__c</fullName>
+        <externalId>false</externalId>
+        <label>Correo</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+>>>>>>> 4887fc8... Merge pull request #3 from FlorPerezGarcia/feature/mi-segundo-cambio
     <gender>Feminine</gender>
     <label>My Custom Object</label>
     <nameField>
